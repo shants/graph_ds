@@ -1,6 +1,8 @@
 #ifndef _ADJLIST_H_
 #define _ADJLIST_H_
-
+/*
+Adjacency list implementation of graph
+*/
 
 #include<iostream>
 #include<vector>
